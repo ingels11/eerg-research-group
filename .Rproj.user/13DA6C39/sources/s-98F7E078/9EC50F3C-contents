@@ -20,7 +20,7 @@ design:
 
 <br>
 
-The **Economic Evaluation Research Group** is located in the Department of Health Policy and Management at the University of Georgia. We provide an infrastructure to conduct economic evaluations, quantitative and qualitative analyses of health policies, chronic disease modeling, and evaluations of public health interventions and programs.
+The Economic Evaluation Research Group is located in the Department of Health Policy and Management at the University of Georgia. We provide an infrastructure to conduct economic evaluations, quantitative and qualitative analyses of health policies, chronic disease modeling, and evaluations of public health interventions and programs.
 
 The EERG brings together a multi-disciplinary team of experts to provide the methods necessary to conduct research relevant for informing health policy making in the state and nationally.
 
