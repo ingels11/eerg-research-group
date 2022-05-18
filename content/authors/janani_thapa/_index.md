@@ -20,10 +20,9 @@ interests:
   - childhood obesity
   - behavioral economics
   - policy evaluation
-  - teaching obesity policy and health economics
 
-education:
-  courses:
+# education:
+#   courses:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
