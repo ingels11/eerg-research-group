@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/eerg-research-group/content/home/welcome.md",
     "project_path": "content/home/welcome.md",
     "type": "markdown",
-    "hash": "1412955138",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1652896233640.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "26,1019",
-        "scrollLine": "8"
+        "cursorPosition": "11,28",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1652896314,
+    "lastKnownWriteTime": 1652896754,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1652896314988,
+    "last_content_update": 1652896754372,
     "read_only": false,
     "read_only_alternatives": []
 }

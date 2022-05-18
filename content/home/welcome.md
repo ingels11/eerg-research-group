@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Economic Evaluation  
   Research Group
-hero_media: welcome.jpg
+hero_media: uga_cph_eerg.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
