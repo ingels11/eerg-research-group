@@ -19,7 +19,7 @@ organizations:
 
 #   Select one of the following, remove the brackets but leave the quotes  
 user_groups:
-- "Grad Students"
+- "Graduate Students"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Motivated, studious individual seeking to expand knowledge and experience in Statistical Analyst, Data Science, Data Analyst, and Clinical Trials."
