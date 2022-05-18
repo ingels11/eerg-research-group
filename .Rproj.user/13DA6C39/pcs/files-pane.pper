@@ -3,7 +3,11 @@
         {
             "columnIndex": 2,
             "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
         }
     ],
-    "path": "~/Documents/GitHub/eerg-research-group"
+    "path": "~/Documents/GitHub/academic-kickstart/static/img"
 }
