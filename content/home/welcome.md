@@ -6,7 +6,7 @@ weight: 10
 title: ""
 hero_media: ""
 design:
-  columns: "`1`"
+  columns: '1'
   css_style: null
   css_class: null
 ---
