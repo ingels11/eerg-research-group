@@ -5,8 +5,8 @@ draft: false
 featured: false
 tags:
   - eerg
-categories:
   - AI
+categories:
 image:
   filename: featured
   focal_point: Smart
