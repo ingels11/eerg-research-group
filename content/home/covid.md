@@ -4,7 +4,7 @@ widget: portfolio
 headless: true
 weight: 10
 
-title: Covid-19
+title: COVID-19
 subtitle: EERG’s Rapid Response to the COVID-19 Pandemic
 
 content:
@@ -14,7 +14,7 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: 'covid'
+    tag: covid
   offset: 0
   order: desc
   page_type: project
