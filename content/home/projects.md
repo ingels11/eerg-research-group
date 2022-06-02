@@ -14,7 +14,7 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: ''
+    tag: 'eerg'
   offset: 0
   order: desc
   page_type: project
