@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence and Mental Health
-date: 2022-06-02T16:31:26.706Z
+date: 2021-10-12T00:00:00Z
 draft: false
 featured: false
 tags:
