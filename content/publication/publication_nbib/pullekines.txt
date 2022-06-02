@@ -1,0 +1,9 @@
+@article{pullekines2019health,
+  title={Health Care Access by Weight Status in the State of Georgia},
+  author={Pullekines, Elizabeth and Rajbhandari-Thapa, Janani},
+  journal={Journal of the Georgia Public Health Association},
+  volume={7},
+  number={2},
+  pages={38--48},
+  year={2019}
+}

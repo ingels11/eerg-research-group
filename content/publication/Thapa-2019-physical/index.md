@@ -1,0 +1,10 @@
+---
+title: "Physical activity and its correlates among higher secondary school students in an urban district of Nepal"
+date: 2019-07-05
+authors: ["Kiran Thapa", "Parash Mani Bhandari", "Dipika Neupane", "Shristi Bhochhibhoya", "Janani Rajbhandari-Thapa", "Ramjee Prasad Pathak"]
+publication_types: ["2"]
+abstract: "BACKGROUND: Data on adolescents' physical activity and determinants are scarce in Nepal. In this study, we aim to assess the level of physical activity, its correlates and the sedentary behavior of high school students in an urban district of Nepal. METHODS: This is a cross-sectional study. Participants were selected using two-stage cluster sampling technique. We used Global Physical Activity Questionnaire (GPAQ) to collect information regarding physical activity and sedentary behavior. We also collected information about socio-demographic, academic, environmental and lifestyle-related factors. Data from 945 high school students from 23 randomly selected schools were analyzed. Logistic regression was used to identify correlates of low physical activity separately for male and female students. RESULTS: Based on GPAQ classification, one out of five respondents reported low physical activity. The prevalence of low physical activity was 8% for males and 31% for females. About 31% of the adolescents and 14% of young adults did not meet the WHO recommendations of physical activity. Forty-seven percent of the total physical activity was borne by recreational activities. Correlates of low physical activity included school type and mode of transport among females, family support and drinking among males, and playground/park around home among both. CONCLUSIONS: The prevalence estimate of low physical activity among adolescents is high, with higher odds among females. Several different factors are associated with physical activity among males and females, therefore, interventions to promote physical activity in school may need to weigh these factors prior to/during implementation."
+featured: false
+publication: "*BMC Public Health*"
+doi: "10.1186/s12889-019-7230-2"
+---

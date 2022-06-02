@@ -1,0 +1,10 @@
+---
+title: "Evaluating the Impact of Improving Access on Consumption of Fruits and Vegetables in a Rural Community in Texas: A Modeling Study"
+date: "2019-07-25"
+authors: ["Nicole D Katapodis", "Donglan Zhang", "Philippe J Giabbanelli", "Yan Li", "Conrad P Lyford", "Janani Rajbhandari-Thapa"]
+publication_types: ["2"]
+abstract: "Purpose: Most residents in rural regions of the United States consume fewer amounts of fruits and vegetables (FVs) compared with their urban counterparts. Difficulties in access to FVs often contribute to different consumption patterns in rural regions, aside from a lack of education or motivation for eating healthy foods. This article uses simulation methods to estimate the relationship between increasing food access and FV consumption levels in a targeted rural community. Methods: An agent-based model previously developed to predict individual dietary behaviors was used. We adapted it to a rural community in west Texas following a two-step process. First, we validated the model with observed data. Second, we simulated the impact of increasing access on FV consumption. We estimated model parameters from the 2010 census and other sources. Results: We found that decreasing the driving distance to FV outlets would increase FV consumption in the community. For example, a one-mile decrease in driving distance to the nearest FV store could lead to an 8.9% increase in FV consumption; a five-mile decrease in driving distance could lead to a 25% increase in FV consumption in the community. We found that the highest marginal increase in FV consumption was when the driving distance decreased from 3.5 miles to 3 miles. Conclusions: Analysis to inform policy alternatives is a challenge in rural settings due to lack of data. This study highlights the potential of simulation modeling to inform and analyze policy alternatives in settings with scarce data. The findings from modeling can be used to evaluate alternative policies in addressing chronic diseases through dietary interventions in rural regions."
+featured: false
+publication: "*Health Equity*"
+doi: "10.1089/heq.2018.0090 [doi]"
+---

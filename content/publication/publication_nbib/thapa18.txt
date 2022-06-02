@@ -1,0 +1,8 @@
+@article{thapa2018nudges,
+  title={Nudges to increase fruits and vegetables consumption: Results from a field experiment},
+  author={Thapa, Janani R and Lyford, Conrad P},
+  journal={J. Child Nutr. Manag},
+  volume={42},
+  pages={1--13},
+  year={2018}
+}
