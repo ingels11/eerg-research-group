@@ -21,7 +21,7 @@ content:
 design:
   view: 3
   columns: '1'
-[[filter]]
-  name = "Covid-19"
-  tag = "covid"
+filter:
+  name: "Covid-19"
+  tag: "covid"
 ---
