@@ -13,7 +13,8 @@ design:
   css_class: null
 ---
 
-{{< figure src="uga_cph_eerg.png" lightbox="true"}}
+
+![](uga_cph_eerg.png)
 
 <br>
 
