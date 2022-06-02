@@ -14,11 +14,14 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: covid
+    tag: ''
   offset: 0
   order: desc
   page_type: project
 design:
   view: 3
   columns: '1'
+filter:
+- name: Covid-19
+  tag: covid
 ---
