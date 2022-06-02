@@ -4,8 +4,8 @@ date: 2021-09-16T00:00:00Z
 draft: false
 featured: false
 tags:
-- eerg
-- AI
+  - eerg
+  - obesity
 categories:
 image:
   filename: featured
