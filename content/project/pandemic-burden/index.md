@@ -1,7 +1,8 @@
 ---
 title: Disparate Burden of the Pandemic on Georgia Communities
 summary: ""
-tags: "covid"
+tags: 
+  - covid
 date: "2020-04-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
