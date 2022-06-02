@@ -5,7 +5,7 @@ headless: true
 weight: 15
 
 title: Projects
-subtitle:
+subtitle: EERG's Current Projects
 
 content:
   count: 5
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: project
 design:
   view: 3
   columns: '1'
